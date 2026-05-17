@@ -39,3 +39,7 @@ python3 app.py
 {'ecosystem': 'npm', 'name': 'puppeteer'}
 ['npm']
 ```
+
+## Contributing
+
+Please consult [CONTRIBUTING](./CONTRIBUTING.md) for guidelines on contributing to this project.
